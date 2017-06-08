@@ -1,0 +1,7 @@
+*** Test Cases ***
+case1
+    log    hell world
+case2
+    log	   hell2
+case3	
+    log	   hell3
